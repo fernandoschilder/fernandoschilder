@@ -36,7 +36,7 @@
             <th>Databases</th>
             <td align=center>
                 <a href="https://skillicons.dev/">
-                    <img src="https://skillicons.dev/icons?i=postgres,mongo" />
+                    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
                     </a>
             </td>
         </tr>
