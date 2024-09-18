@@ -25,18 +25,10 @@
 <div align=center>
     <table>
         <tr>
-            <th>Frontend</th>
+            <th>Languages/Frameworks</th>
             <td align=center>
                 <a href="https://skillicons.dev/">
                     <img src="https://skillicons.dev/icons?i=js,html,css,angular,dotnet,python,java,cpp,cs,spring" />
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <th>Backend</th>
-            <td align=center>
-                <a href="https://skillicons.dev/">
-                    <img src="https://skillicons.dev/icons?i=java,cpp,cs,spring" />
                 </a>
             </td>
         </tr>
