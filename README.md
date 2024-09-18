@@ -28,7 +28,7 @@
             <th>Frontend</th>
             <td align=center>
                 <a href="https://skillicons.dev/">
-                    <img src="https://skillicons.dev/icons?i=js,html,css,angular,dotnet" />
+                    <img src="https://skillicons.dev/icons?i=js,html,css,angular,dotnet,python,java,cpp,cs,spring" />
                 </a>
             </td>
         </tr>
